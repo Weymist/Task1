@@ -1,0 +1,10 @@
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GraphLib\bin\Debug\GraphLib.dll
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GraphLib\bin\Debug\GraphLib.pdb
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GraphLib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GraphLib\obj\Debug\GraphLib.dll
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GraphLib\obj\Debug\GraphLib.pdb
+C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\bin\Debug\GraphLib.dll
+C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\bin\Debug\GraphLib.pdb
+C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
+C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.dll
+C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.pdb

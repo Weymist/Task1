@@ -1,0 +1,24 @@
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\GenericGraph-master\GenericGraph\bin\Debug\GenericGraph.exe.config
+C:\Users\pasha\Source\Repos\GenericGraph\GenericGraph\bin\Debug\GenericGraph.exe.config
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\bin\Debug\GenericGraph.exe.config
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\bin\Debug\GenericGraph.exe
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\bin\Debug\GenericGraph.pdb
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\bin\Debug\GraphLib.dll
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\bin\Debug\GraphLib.pdb
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\obj\Debug\GenericGraph.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\obj\Debug\GenericGraph.Form1.resources
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\obj\Debug\GenericGraph.Properties.Resources.resources
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\obj\Debug\GenericGraph.csproj.GenerateResource.Cache
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\obj\Debug\GenericGraph.exe
+C:\Users\Дима\Downloads\GenericGraph-master\GenericGraph-master\GenericGraph\obj\Debug\GenericGraph.pdb
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GenericGraph.exe.config
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.exe
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.pdb
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GenericGraph.exe
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GenericGraph.pdb
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GraphLib.dll
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GraphLib.pdb
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.csprojResolveAssemblyReference.cache
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.Form1.resources
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.Properties.Resources.resources
+C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.csproj.GenerateResource.Cache

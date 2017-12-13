@@ -8,3 +8,8 @@ C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\bin\Debug\GraphLib.pdb
 C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
 C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.dll
 C:\Laksha\ООП\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.pdb
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GraphLib\bin\Debug\GraphLib.dll
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GraphLib\bin\Debug\GraphLib.pdb
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.dll
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GraphLib\obj\Debug\GraphLib.pdb

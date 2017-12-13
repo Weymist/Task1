@@ -21,7 +21,7 @@ namespace GraphLib
             public List<int> Path { get; set; } //путь к вершина для алгоритма дейкстры
             public bool InTree { get; set; } //метка для построения остовного дерева
 
-            public Vertex(V inf)
+            public Vertex(V inf) //конструктор
             {
                 Inf = inf;
                 Visit = false;
@@ -38,7 +38,7 @@ namespace GraphLib
 
             public bool InTree { get; set; } //метка для построения остовного дерева
 
-            public Edge(E inf)
+            public Edge(E inf) //конструктор
             {
                 Inf = inf;
                 InTree = false;

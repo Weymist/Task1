@@ -45,14 +45,14 @@ namespace GenericGraph
             gScreen.DrawImage(bitmap, drawBox.ClientRectangle);
         }
 
-        private void cursorRB_Click(object sender, EventArgs e)
+        private void cursorRB_Click(object sender, EventArgs e) //нажатие кнопки "Курсор"
         {
-            cMap.Selected = null;
+            cMap.Selected = null; 
             labelTip.Visible = false;
             tB.Visible = false;
         }
 
-        private void cityRB_Click(object sender, EventArgs e)
+        private void cityRB_Click(object sender, EventArgs e) //нажатие кнопки "Добавление города"
         {
             cMap.Selected = null;
             labelTip.Visible = true;
@@ -60,7 +60,7 @@ namespace GenericGraph
             labelTip.Text = "Название города";
         }
 
-        private void roadRB_Click(object sender, EventArgs e)
+        private void roadRB_Click(object sender, EventArgs e) //нажатие кнопки "Добавление Дороги"
         {
             cMap.Selected = null;
             labelTip.Visible = true;
@@ -68,7 +68,7 @@ namespace GenericGraph
             labelTip.Text = "Длина дороги";
         }
 
-        private void drawBox_MouseDown(object sender, MouseEventArgs e)
+        private void drawBox_MouseDown(object sender, MouseEventArgs e) //действие при нажатии по окну рисования (в зависимости от выбранной кнопки)
         {
             if (cityRB.Checked == true)
             {
@@ -107,7 +107,7 @@ namespace GenericGraph
             }
         }
 
-        private void drawBox_MouseUp(object sender, MouseEventArgs e)
+        private void drawBox_MouseUp(object sender, MouseEventArgs e) //действие при отпускании кнопки мыши в окне рисования (при создании дороги)
         {
             if (roadRB.Checked == true)
             {
@@ -144,7 +144,7 @@ namespace GenericGraph
             }
         }
 
-        private void drawBox_MouseMove(object sender, MouseEventArgs e)
+        private void drawBox_MouseMove(object sender, MouseEventArgs e) //дейтвие при передвижении мыши в окне рисования
         {
             if (roadRB.Checked == true && cMap.Selected != null)
             {
@@ -153,7 +153,7 @@ namespace GenericGraph
             }
         }
 
-        private void deepB_Click(object sender, EventArgs e)
+        private void deepB_Click(object sender, EventArgs e) //действие при нажатии кнопки "Обход в глубину"
         {
             if (cMap.MainGraph.Count() == 0)
             {
@@ -182,7 +182,7 @@ namespace GenericGraph
             }
         }
 
-        private void wideB_Click(object sender, EventArgs e)
+        private void wideB_Click(object sender, EventArgs e) //действие при нажатии кнопки "Обход в ширину"
         {
             if (cMap.MainGraph.Count() == 0)
             {
@@ -211,13 +211,13 @@ namespace GenericGraph
             }
         }
 
-        private void clearB_Click(object sender, EventArgs e)
+        private void clearB_Click(object sender, EventArgs e) //нажатие на кнопку "очистить посещение"
         {
             cMap.MainGraph.ResetVisit();
             cMap.MainGraph.ResetInTree();
         }
 
-        private void dijkstrB_Click(object sender, EventArgs e)
+        private void dijkstrB_Click(object sender, EventArgs e) //нажатие на кнопку "путь дейкстры"
         {
             if (cMap.MainGraph.Count() == 0)
             {
@@ -260,7 +260,7 @@ namespace GenericGraph
             }
         }
 
-        private void cruskalB_Click(object sender, EventArgs e)
+        private void cruskalB_Click(object sender, EventArgs e) //нажатие на кнопку "Дерево Краскала"
         {
             if (cMap.MainGraph.Count() == 0)
             {

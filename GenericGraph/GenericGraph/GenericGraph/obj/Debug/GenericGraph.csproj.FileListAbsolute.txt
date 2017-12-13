@@ -22,3 +22,14 @@ C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.c
 C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.Form1.resources
 C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.Properties.Resources.resources
 C:\Laksha\ООП\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.csproj.GenerateResource.Cache
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GenericGraph.exe.config
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.exe
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.pdb
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GenericGraph.exe
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GenericGraph.pdb
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GraphLib.dll
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\bin\Debug\GraphLib.pdb
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.csprojResolveAssemblyReference.cache
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.Form1.resources
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.Properties.Resources.resources
+C:\Laksha\1\oop1att-master (1)\oop1att-master\GenericGraph\GenericGraph\GenericGraph\obj\Debug\GenericGraph.csproj.GenerateResource.Cache
